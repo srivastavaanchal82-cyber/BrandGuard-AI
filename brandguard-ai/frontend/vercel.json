@@ -1,0 +1,9 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://brandguard-ai-2-7q2j.onrender.com/api/:path*"
+    }
+  ]
+}
